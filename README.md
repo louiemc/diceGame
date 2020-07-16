@@ -2,12 +2,12 @@
 
 Dice game
 
-This will be a game that will incorporate HTML and JS.
+This will be a game that will incorporate HTML and JavaScript.
 
-## What The Player Will Have
+## How to Play
 
-The player (you) will be 2 dice. The computer will have two dice. If your dice match with the computer's dice, you will win.
+Click the "Start" button. The computer's dice total and the player's dice total will appear on the screen (and console). The winner will be determined by who has the higher total.
 
-### The Prize?
+### The Winner's Prize?
 
 Satisfaction 🤷🏻‍♀️
