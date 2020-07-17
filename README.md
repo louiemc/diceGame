@@ -8,7 +8,7 @@ This will be a game that will incorporate HTML and JavaScript.
 
 Click the "Start" button.
 
-The computer's dice total and the player's dice total will appear on the screen (and console).
+The computer's dice total and the player's dice total will appear on the screen.
 
 The winner will be determined by who has the higher total.
 

@@ -1,0 +1,38 @@
+#diceGame {
+  width: 100%;
+  align-content: center;
+}
+#diceStartBtn {
+  background-color: rgb(43, 189, 65);
+  color: #ffffff;
+  text-transform: uppercase;
+  padding: 1rem;
+  width: 5rem;
+  border-radius: 1rem;
+  float: left;
+  width: 100%;
+  margin: 2rem 0;
+}
+#compTotalText {
+  width: 50%;
+
+  float: left;
+  font-size: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+#playerTotalText {
+  width: 50%;
+
+  float: left;
+  font-size: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+#winnerText {
+  float: left;
+  margin-top: 3rem;
+  text-align: center;
+  width: 100%;
+  font-size: 2.5rem;
+}

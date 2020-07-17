@@ -3,14 +3,21 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- CSS Links -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/reset.css" />
     <title>Dice Game</title>
   </head>
   <body>
     <div id="diceGame">
       <button id="diceStartBtn">Start</button>
-      <p>Computer's Dice Total: <span id="computerDiceTotal"></span></p>
-      <p>Player's Dice Total: <span id="playerDiceTotal"></span></p>
-      <p>Winner: <span id="diceWinner"></span></p>
+      <p id="compTotalText">
+        Computer's Dice Total: <span id="computerDiceTotal"></span>
+      </p>
+      <p id="playerTotalText">
+        Player's Dice Total: <span id="playerDiceTotal"></span>
+      </p>
+      <p id="winnerText">Winner: <span id="diceWinner"></span></p>
     </div>
   </body>
   <script src="./game.js"></script>
